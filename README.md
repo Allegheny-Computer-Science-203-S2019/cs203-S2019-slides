@@ -23,14 +23,15 @@ You can type the following command if you want to clone this repository:
 git clone https://github.com/Allegheny-Computer-Science-203-S2019/cs203-S2019-slides.git
 ```
 
-Please note that the presentation uses local fonts so that it can be displayed
-on a laptop that either may not have access to the Internet or may only have
-unreliable Internet access. Some browsers may disallow the loading of local
-fonts due to security concerns. However, it should be possible for you to view
-the presentation correctly when using Chrome or Chromium on the Ubuntu operating
-system &mdash; this is my primary development environment and the one that I
-used to present these slides. However, I anticipate that the presentation slides
-will display correctly on a wide variety of operating systems and browsers.
+Please note that the presentation may use local fonts so that it can be
+displayed on a laptop that either may not have access to the Internet or may
+only have unreliable Internet access. Some browsers may disallow the loading of
+local fonts due to security concerns. However, it should be possible for you to
+view the presentation correctly when using Chrome or Chromium on the Ubuntu
+operating system &mdash; this is my primary development environment and the one
+that I used to present these slides. However, I anticipate that the presentation
+slides will display correctly on a wide variety of operating systems and
+browsers.
 
 I have found that some versions of Chrome and Chromium do not quickly load the
 full-screen images that I use as backgrounds. If you notice this problem as
