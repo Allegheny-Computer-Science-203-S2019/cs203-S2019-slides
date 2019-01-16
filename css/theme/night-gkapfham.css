@@ -11,7 +11,7 @@ body {
     background-color: #1d1f21; }
 
 .reveal {
-    font-family: 'Merriweather Sans', sans;
+    font-family: 'Montserrat', sans;
     font-size: 35px;
     font-weight: normal;
     letter-spacing: -0.02em;
@@ -33,7 +33,7 @@ body {
 .reveal h6 {
     margin: 0 0 20px 0;
     color: #707880;
-    font-family: "Merriweather", sans-serif;
+    font-family: "Roboto Slab", sans-serif;
     line-height: 1.1em;
     letter-spacing: -0.03em;
     text-transform: none;
